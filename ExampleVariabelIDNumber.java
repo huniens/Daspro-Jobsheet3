@@ -1,7 +1,7 @@
 /**
- * ExampleVariabell12
+ * ExampleVariabelIDNumber
  */
-public class ExampleVariabell12 {
+public class ExampleVariabelIDNumber {
 
     public static void main(String[] args) {
         String oneOfMyHobbies = "Playing futsal";
@@ -10,9 +10,9 @@ public class ExampleVariabell12 {
         byte _age = 20;
         double $gpa = 3.38, height = 1.68;
         System.out.println(oneOfMyHobbies);
-        System.out.println("Are you smart ?" + isSmart);
+        System.out.println("Are you smasrt?" + isSmart);
         System.out.println("Gender" + gender);
         System.out.println("My current age is " + _age);
-        System.out.println(String.format("My GPA is %s and my height is %s meters", $gpa, height));
+        System.out.println(String.format("My GPA is %s and my height is %s meters", $gpa, height)); 
     }
 }
