@@ -17,6 +17,7 @@ public class ExampleOperatorID12t2 {
         int z = x ^ y;
         System.out.println("The result of x ^ y is" + z);
         z %= 2;
-        System.out.println("Thec final result is " +z);
+        System.out.println("Thec final result is " +x);
     }
+    
 }
